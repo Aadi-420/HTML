@@ -42,8 +42,8 @@ I've been with **Product Company** for about 3 years (2023 - Present) and progre
 
 ### 5. **Key Projects** - What I've Built
 I've worked on two major projects:
-- **aDrive**: A cloud sync engine (similar to OneDrive/Dropbox) for Org's CDE platform
-- **Product CDE**: A collaborative platform that helps construction companies manage their projects and data in the cloud
+- **Drive**: Contributing to driving application development and maintenance.
+- **Product CDE**: A Common Data Environment platform for industry to manage their projects and data in cloud.
 
 ### 6. **Education** - My Background
 I graduated with a **B.E. in Information Technology** from **V.V.P. Engineering College** (2019-2023).
